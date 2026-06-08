@@ -147,6 +147,34 @@ But the trade-off is simple:
 The only thing you actually “lose” by not taking it seriously is time.
 And in this field, time is the only real cost.
 
+#### Important
+
+When you hit a bug or something doesn’t work your first job is to try and solve it yourself.
+
+That means:
+- Read the error message carefully if theres any (or understand what you want)
+- Google it
+- Check documentation or examples
+- Try small changes and observe what breaks or fixes it
+- Break the problem into smaller parts
+
+If the deadline passes and you are not finished, you should still submit your work.
+
+- Even if it’s incomplete.
+- Even if it doesn’t work.
+
+I need to see:
+- how you think
+- where you got stuck
+- what you managed to do before hitting the limit
+
+So if you’re not done by the deadline, you still:
+- commit your latest progress
+- open the PR anyway
+- explain what is missing in the a README file.
+
+In real development, unfinished work is still part of the process.
+
 ---
 I HAVE READ THIS AND AGREE.
 Name:
