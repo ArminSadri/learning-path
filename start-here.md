@@ -59,7 +59,8 @@ cd learning-path
 
 Now you have the project on your computer.
 
-#### 5. Basic idea of Git workflow (important)
+
+#### Basic idea of Git workflow (important)
 
 Every assignment will follow this cycle:
 
@@ -70,6 +71,41 @@ Every assignment will follow this cycle:
 - Open Pull Request
 
 That’s it. You’ll repeat this for every assignment. (how? keep reading)
+
+
+#### 5. Create a branch
+
+Before starting any assignment, create a branch for it.
+
+For this assignment:
+
+```bash
+git checkout -b assignment-00
+```
+
+You are now working on a separate branch.
+
+Every future assignment should be completed on its own branch:
+
+```text
+assignment-01
+assignment-02
+assignment-03
+...
+```
+
+This keeps your work organized and makes Pull Requests much cleaner.
+
+You can verify your current branch with:
+
+```bash
+git branch
+```
+
+The active branch will have a `*` next to it.
+
+(don't overthink these for now. it's ok if it looks confusing! just do the steps, you'll learn eventually)
+
 
 #### 6. Keeping your repo updated (Sync Fork)
 
