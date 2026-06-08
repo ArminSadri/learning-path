@@ -102,10 +102,10 @@ README.md
 Put this inside `README.md`:
 
 ```
-# Assignment 00
+## Assignment 00
 
 
-## How many hours are you willing to assign for learning per day? and how many days per week?
+#### How many hours are you willing to assign for learning per day? and how many days per week?
 (Real number. Don’t guess “ideal”. Write what you can actually do consistently.)
 
 ---
@@ -113,10 +113,11 @@ Put this inside `README.md`:
 By submitting this assignment, you agree to:
 
 - You are responsible for completing assignments on your own
-- You will not skip directly to AI-generated full solutions without trying
-- You will submit work via GitHub Pull Requests
+- You will not use AI-generated unless the assignment allows you
+- You will submit work via GitHub Pull Requests and this workflow
 - You accept feedback and will make improvements when needed
 - You understand that progress comes from consistency, not speed
+- You respect the effort I am putting into this program by respecting to the timelines
 
 #### Deadline & Responsibility
 
@@ -124,18 +125,14 @@ Each assignment has a timeline for a reason.
 
 Not because I want to rush you, but because consistency is the main skill you're actually training here.
 
-If you don’t follow the timeline, nothing “bad” happens in a dramatic sense — but something important is lost:
+If you don’t follow the timeline:
 
 - You fall out of rhythm
 - You lose momentum
 - You start overthinking instead of building
 - You slowly stop treating this like real practice
 
-And in real development work, that pattern is basically the difference between someone who grows and someone who stays stuck watching tutorials.
-
----
-
-## What happens if you miss a deadline
+#### What happens if you miss a deadline
 
 If you don’t submit an assignment within the expected timeframe:
 
@@ -146,10 +143,8 @@ But:
 
 - It will be marked as **late**
 - If you submit an assignment **N days late**, then the next assignment will also be released **N days later for you**.
-- Priority feedback will go to active submissions first
 - You’ll be expected to catch up on your own time
 - **if you miss 3 assignment in a row the program will be STOP**
-
 
 This is not school.
 No one is forcing you to do this.
