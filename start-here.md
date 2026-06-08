@@ -1,12 +1,12 @@
 ### Git and Workflow
 
-> **Goal:** Get your environment ready, understand the basic Git workflow, and successfully submit your first Pull Request.
+**Goal:** Get your environment ready, understand the basic Git workflow, and successfully submit your first Pull Request.
 
-This assignment is not about frontend yet. It’s about learning how you’ll submit every future assignment.
+This assignment is about learning how you’ll submit every future assignment.
 
 **TIMELINE: 24 HOURS.**
-- this assignment was published at **6/8/26 - 12:00**
-- you should open your pull request till **7/8/26 - 12:00**
+- this assignment was published at **6/8/26 - 13:00**
+- you should open your pull request till **7/8/26 - 13:00**
 
 ---
 #### 1. Tools you need to install
@@ -59,17 +59,39 @@ cd learning-path
 
 Now you have the project on your computer.
 
-#### 5. Basic idea of Git workflow (important)
+#### 5. Create a branch
 
-Every assignment will follow this cycle:
+Before starting any assignment, create a branch for it.
 
-- Pull latest changes (sync)
-- Create or edit files
-- Commit changes
-- Push to GitHub
-- Open Pull Request
+For this assignment:
 
-That’s it. You’ll repeat this for every assignment. (how? keep reading)
+```bash
+git checkout -b assignment-00
+```
+
+You are now working on a separate branch.
+
+Every future assignment should be completed on its own branch:
+
+```text
+assignment-01
+assignment-02
+assignment-03
+...
+```
+
+This keeps your work organized and makes Pull Requests much cleaner.
+
+You can verify your current branch with:
+
+```bash
+git branch
+```
+
+The active branch will have a `*` next to it.
+
+(don't overthink these for now. it's ok if it looks confusing! just do the steps, you'll learn eventually)
+
 
 #### 6. Keeping your repo updated (Sync Fork)
 
@@ -97,45 +119,35 @@ Create a file inside it:
 README.md
 ```
 
-## 8. Your Assignment 00 content
+### 8. Your Assignment 00 content
+
+**YOU MUST READ THE CONTENT OF THIS FILE - DON'T SKIP IT**
 
 Put this inside `README.md`:
 
 ```
-# Assignment 00
-
-
-## How many hours are you willing to assign for learning per day? and how many days per week?
-(Real number. Don’t guess “ideal”. Write what you can actually do consistently.)
-
----
+## Assignment 00
 
 By submitting this assignment, you agree to:
 
 - You are responsible for completing assignments on your own
-- You will not skip directly to AI-generated full solutions without trying
-- You will submit work via GitHub Pull Requests
+- You will not use AI unless the assignment allows you
+- You will submit work via GitHub Pull Requests and this workflow
 - You accept feedback and will make improvements when needed
-- You understand that progress comes from consistency, not speed
+- You respect the effort I am putting into this program by respecting to the timelines
 
 #### Deadline & Responsibility
 
 Each assignment has a timeline for a reason.
-
 Not because I want to rush you, but because consistency is the main skill you're actually training here.
 
-If you don’t follow the timeline, nothing “bad” happens in a dramatic sense — but something important is lost:
+If you don’t follow the timeline:
 
 - You fall out of rhythm
 - You lose momentum
 - You start overthinking instead of building
-- You slowly stop treating this like real practice
 
-And in real development work, that pattern is basically the difference between someone who grows and someone who stays stuck watching tutorials.
-
----
-
-## What happens if you miss a deadline
+#### What happens if you miss a deadline
 
 If you don’t submit an assignment within the expected timeframe:
 
@@ -144,12 +156,10 @@ If you don’t submit an assignment within the expected timeframe:
 
 But:
 
-- It will be marked as **late**
-- If you submit an assignment **N days late**, then the next assignment will also be released **N days later for you**.
-- Priority feedback will go to active submissions first
-- You’ll be expected to catch up on your own time
-- **if you miss 3 assignment in a row the program will be STOP**
-
+- It will be marked as **late**.
+- If you submit an assignment **N days late**, then the next assignment will also be released **N days later than planned**.
+- You’ll be expected to catch up on your own time.
+- **if you miss 3 assignments in a row, the program will be STOPPED**.
 
 This is not school.
 No one is forcing you to do this.
@@ -160,6 +170,34 @@ But the trade-off is simple:
 
 The only thing you actually “lose” by not taking it seriously is time.
 And in this field, time is the only real cost.
+
+#### Important
+
+When you hit a bug or something doesn’t work your first job is to try and solve it yourself.
+
+That means:
+- Read the error message carefully if theres any (or understand what you want)
+- Google it
+- Check documentation or examples
+- Try small changes and observe what breaks or fixes it
+- Break the problem into smaller parts
+
+If the deadline passes and you are not finished, you should still submit your work.
+
+- Even if it’s incomplete.
+- Even if it doesn’t work.
+
+I need to see:
+- how you think
+- where you got stuck
+- what you managed to do before hitting the limit
+
+So if you’re not done by the deadline, you still:
+- commit your latest progress
+- open the PR anyway
+- explain what is missing in the a README file.
+
+In real development, unfinished work is still part of the process.
 
 ---
 I HAVE READ THIS AND AGREE.
@@ -203,11 +241,17 @@ That’s your submission.
 - You understand basic Git workflow
 - You can modify files and push changes
 
----
-## Final note (read this once)
 
-Don’t rush this assignment.
-If Git feels confusing, that’s normal.
-Every developer goes through this stage.
+#### summary of workflow (important)
 
-Once this workflow becomes natural, everything else (HTML, CSS, JavaScript) becomes much easier because you’ll actually be able to save and track your work properly.
+Every assignment will follow this cycle:
+
+- Pull latest changes (sync)
+- Create branch for that assigment 
+- Add your files
+- Commit changes
+- Push to GitHub
+- Open Pull Request
+- Wait for my review and next assignment
+
+That’s it. You’ll repeat this for every assignment.
