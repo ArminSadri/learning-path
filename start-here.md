@@ -5,8 +5,8 @@
 This assignment is about learning how you’ll submit every future assignment.
 
 **TIMELINE: 24 HOURS.**
-- this assignment was published at **6/8/26 - 12:00**
-- you should open your pull request till **7/8/26 - 12:00**
+- this assignment was published at **6/8/26 - 13:00**
+- you should open your pull request till **7/8/26 - 13:00**
 
 ---
 #### 1. Tools you need to install
