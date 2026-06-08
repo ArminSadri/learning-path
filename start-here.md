@@ -121,6 +121,8 @@ README.md
 
 ### 8. Your Assignment 00 content
 
+**YOU MUST READ THE CONTENT OF THIS FILE - DON'T SKIP IT**
+
 Put this inside `README.md`:
 
 ```
@@ -204,8 +206,6 @@ GitHub Username:
 
 - GOOD LUCK.
 ```
-
-**YOU MUST READ THE CONTENT OF THIS FILE - DON'T SKIP IT**
 
 #### 9. Commit your work
 
