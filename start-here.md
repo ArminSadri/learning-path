@@ -237,6 +237,8 @@ For Pull Request title simply use assignment title like:
 ```
 assignment-00
 ```
+Answer to the questions and send the pull reqeust.
+
 That’s your submission.
 
 #### 12. What I’m checking for
