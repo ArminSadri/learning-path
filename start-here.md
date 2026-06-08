@@ -110,7 +110,7 @@ git pull
 Inside your local repo create a file like this:
 
 ```
-submissions/<your-github-username>/frontend/level-01/assignment-00/
+submissions/frontend/level-01/assignment-00/
 ```
 
 Create a file inside it:
@@ -118,6 +118,19 @@ Create a file inside it:
 ```
 README.md
 ```
+
+you should have something like this in your local repo:
+
+```
+.
+├── frontend <---- do not change anything here
+│   └── level-01
+└── submissions
+    └── frontend
+        └── level-01
+            └── assignment-00 <--- add README.md inside this
+```
+**do not add or edit anything inside top-level frontend directory**
 
 ### 8. Your Assignment 00 content
 
