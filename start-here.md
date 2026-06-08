@@ -134,7 +134,7 @@ By submitting this assignment, you agree to:
 - You will not use AI unless the assignment allows you
 - You will submit work via GitHub Pull Requests and this workflow
 - You accept feedback and will make improvements when needed
-- You respect the effort I am putting into this program by respecting to the timelines
+- You respect the effort being put into this program by respecting the timelines.
 
 #### Deadline & Responsibility
 
@@ -176,7 +176,7 @@ And in this field, time is the only real cost.
 When you hit a bug or something doesn’t work your first job is to try and solve it yourself.
 
 That means:
-- Read the error message carefully if theres any (or understand what you want)
+- Read the error message carefully if there is one. If there is no error message, clearly define the problem you are trying to solve.
 - Google it
 - Check documentation or examples
 - Try small changes and observe what breaks or fixes it
@@ -232,6 +232,11 @@ You should see a button like:
 
 Click it.
 Create the PR.
+
+For Pull Request title simply use assignment title like:
+```
+assignment-00
+```
 That’s your submission.
 
 #### 12. What I’m checking for
