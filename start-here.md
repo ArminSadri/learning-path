@@ -59,20 +59,6 @@ cd learning-path
 
 Now you have the project on your computer.
 
-
-#### Basic idea of Git workflow (important)
-
-Every assignment will follow this cycle:
-
-- Pull latest changes (sync)
-- Create or edit files
-- Commit changes
-- Push to GitHub
-- Open Pull Request
-
-That’s it. You’ll repeat this for every assignment. (how? keep reading)
-
-
 #### 5. Create a branch
 
 Before starting any assignment, create a branch for it.
@@ -252,3 +238,18 @@ That’s your submission.
 - You successfully opened a PR
 - You understand basic Git workflow
 - You can modify files and push changes
+
+
+#### summary of workflow (important)
+
+Every assignment will follow this cycle:
+
+- Pull latest changes (sync)
+- Create branch for that assigment 
+- Add your files
+- Commit changes
+- Push to GitHub
+- Open Pull Request
+- Wait for my review and next assignment
+
+That’s it. You’ll repeat this for every assignment.
