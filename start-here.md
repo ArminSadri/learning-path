@@ -119,7 +119,7 @@ Create a file inside it:
 README.md
 ```
 
-## 8. Your Assignment 00 content
+### 8. Your Assignment 00 content
 
 Put this inside `README.md`:
 
@@ -204,6 +204,8 @@ GitHub Username:
 
 - GOOD LUCK.
 ```
+
+**YOU MUST READ THE CONTENT OF THIS FILE - DON'T SKIP IT**
 
 #### 9. Commit your work
 
