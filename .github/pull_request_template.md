@@ -1,26 +1,17 @@
-### Status
+#### Status
 
 - [x] Complete
 - [ ] Partially Complete
 - [ ] Submitted After Deadline
 
-### What I completed
+#### What I completed (if it's complete)
 
 
-### What is missing
+#### What is missing (if it's incomplete)
 
 
-### Problems I encountered
+#### Note for this PR (optional)
 
 
-### What I learned
-
-
-### Questions
-
-
-### Note (optional)
-
-
-## Screenshots
+#### Screenshots
 (drag image here)

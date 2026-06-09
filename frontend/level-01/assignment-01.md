@@ -15,7 +15,7 @@ Before moving further, I want you to strengthen your HTML and CSS fundamentals.
 
 You will:
 
-1. Review all material from [HTML](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) up to and including [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox).
+1. Review all material from [HTML](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) up to [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox).
 2. Complete the **Flexbox** chapter.
 3. Complete Flexbox project **landing page**.
 4. Submit your work through the repository workflow.
