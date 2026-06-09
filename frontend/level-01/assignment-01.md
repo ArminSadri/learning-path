@@ -33,7 +33,6 @@ Focus on making sure you understand:
 - Elements and attributes
 - Links and images
 - Lists
-- Git basic
 - CSS selectors
 - The box model
 - Display types
