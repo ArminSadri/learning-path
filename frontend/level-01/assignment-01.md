@@ -8,18 +8,20 @@
 - Pull Request deadline: **Thu - 6/11/26 - 00:00**
 
 ---
+
 ## Objective
 
 Before moving further, I want you to strengthen your HTML and CSS fundamentals.
 
 You will:
 
-1. Review all material from the beginning of Foundations up to and including **CSS Foundations**.
+1. Review all material from [HTML](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) up to and including [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox).
 2. Complete the **Flexbox** chapter.
 3. Complete Flexbox project **landing page**.
 4. Submit your work through the repository workflow.
 
 ---
+
 ## Part 1 - Review
 
 Go back and review the material you've already covered.
@@ -41,6 +43,7 @@ Focus on making sure you understand:
 While reviewing, write down anything that feels unclear.
 
 ---
+
 ## Part 2 - Flexbox
 
 Complete the entire Flexbox section.
@@ -61,6 +64,7 @@ Experiment with the examples and make sure you understand:
 You are expected to spend time playing with the examples until the behavior makes sense.
 
 ---
+
 ## Part 3 - Complete the Project
 
 Complete the **landing page** project assigned by The Odin Project.
